@@ -1,0 +1,6 @@
+# Binary and temp files
+.cache
+build
+
+# Vim session file
+Session.vim
